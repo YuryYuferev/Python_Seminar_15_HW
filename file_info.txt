@@ -1,0 +1,5 @@
+Name: directory_info
+Extension: .log
+Directory: No
+Parent Directory: directory
+--------------------
